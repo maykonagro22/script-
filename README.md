@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-    <a href="https://tarefamaker.squareweb.app/"><img width="10%" alt="TarefasSP" title="TarefasSP" src="https://i.imgur.com/XICsgcH.png"/></a>
+    <a href="[https://doritus.mmrcoss.tech/coisas"><img width="10%" alt="TarefasSP" title="TarefasSP" src="https://i.imgur.com/XICsgcH.png"/></a>
   &nbsp;
     <a href="https://redacao.mmrcoss.tech/"><img width="10%" alt="Redação Paulista" title="Redação Paulista" src="https://i.imgur.com/l3lXH90.png"/></a>
   &nbsp;
